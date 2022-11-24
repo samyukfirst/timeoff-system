@@ -22,7 +22,7 @@
 		<javax.inject>1</javax.inject>
 
 		<!-- Hibernate / JPA -->
-		<hibernate.version>4.2.1.Final</hibernate.version>
+		<hibernate.version>5.3.20.Final</hibernate.version>
 		<jpa.version>1.3.2.RELEASE</jpa.version>
 		<javax.validation>1.0.0.GA</javax.validation>
 		<hibernate.validator>4.3.0.Final</hibernate.validator>
